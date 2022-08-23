@@ -39,9 +39,11 @@ Perform ETL process completely in the cloud and upload a DataFrame to an RDS ins
 ![image](https://user-images.githubusercontent.com/100891182/186231995-f6ee5c2d-78b9-41a8-bcd0-998199ac12d5.png)
 
 
-    3.2 Load Dataset
+    3.2 write DataFrame to Database
     
     
+    ![image](https://user-images.githubusercontent.com/100891182/186240849-83f71640-dd69-421d-ba11-a48d1e7dd686.png)
+
     
     3.3 Load Dataset
 
