@@ -48,7 +48,7 @@ Perform ETL process completely in the cloud and upload a DataFrame to an RDS ins
 ![wireless_customer](https://user-images.githubusercontent.com/100891182/186231384-df8d880e-feab-4c5c-b1f0-7b729f1d97a7.png)
 
 
-![wireless_customer](https://user-images.githubusercontent.com/100891182/186231401-b2cbfb05-ac4a-4464-ae13-42fc1fd2b4df.png)
+![wireless_products](https://user-images.githubusercontent.com/100891182/186232501-cbaa1019-aefa-4448-bc3e-ce5d56134033.png)
 
 
 ![wireless_review_id](https://user-images.githubusercontent.com/100891182/186231415-0382997b-b01a-4d96-8a95-61d8a941d51a.png)
