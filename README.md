@@ -34,18 +34,18 @@ Perform ETL process completely in the cloud and upload a DataFrame to an RDS ins
 
 ### 3. Wireless Dataset
 
-    3.1 Extract Dataset
+ 3.1 Extract Dataset
 
 ![image](https://user-images.githubusercontent.com/100891182/186231995-f6ee5c2d-78b9-41a8-bcd0-998199ac12d5.png)
 
 
-    3.2 write DataFrame to Database
+ 3.2 write DataFrame to Database
     
     
-    ![image](https://user-images.githubusercontent.com/100891182/186240849-83f71640-dd69-421d-ba11-a48d1e7dd686.png)
+ ![image](https://user-images.githubusercontent.com/100891182/186240849-83f71640-dd69-421d-ba11-a48d1e7dd686.png)
 
     
-    3.3 Load Dataset
+ 3.3 Load Dataset
 
 ![wireless_customer](https://user-images.githubusercontent.com/100891182/186231384-df8d880e-feab-4c5c-b1f0-7b729f1d97a7.png)
 
