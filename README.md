@@ -4,7 +4,9 @@
 
 Perform ETL process completely in the cloud and upload a DataFrame to an RDS instance by creating 2 DataFrames to match production-ready tables from two big Amazon customer review datasets
 
-2. ETL: Video games Dataset
+2. Video Games Dataset
+  
+  2.1 Extract Video games Dataset
 
 
 ![image](https://user-images.githubusercontent.com/100891182/186228360-937e1258-bd8d-4bf1-997e-8c282f07d7d6.png)
@@ -13,7 +15,7 @@ Perform ETL process completely in the cloud and upload a DataFrame to an RDS ins
 ![image](https://user-images.githubusercontent.com/100891182/186228441-1bc14c55-76bc-4ef9-b59f-29995e67ba28.png)
 
 
-Load Data
+  2.2 Load Data
 
 ![Screenshot (206)](https://user-images.githubusercontent.com/100891182/186228556-3ac20730-19bd-4658-bba9-6341dbbee68c.png)
 
@@ -28,7 +30,13 @@ Load Data
 ![Screenshot (211)](https://user-images.githubusercontent.com/100891182/186228637-ca2550dd-1800-4055-b572-a7697f33638d.png)
 
 
-2. ETL: Wireless Dataset
+3. Wireless Dataset
+
+    3.1 Extract Dataset
+
+
+
+    3.2 Load Dataset
 
 ![wireless_customer](https://user-images.githubusercontent.com/100891182/186231384-df8d880e-feab-4c5c-b1f0-7b729f1d97a7.png)
 
