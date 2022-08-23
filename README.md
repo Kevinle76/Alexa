@@ -1,10 +1,10 @@
-# Alexa
+##  Alexa
 
-1. Objective:
+### 1. Objective:
 
 Perform ETL process completely in the cloud and upload a DataFrame to an RDS instance by creating 2 DataFrames to match production-ready tables from two big Amazon customer review datasets
 
-2. Video Games Dataset
+### 2. Video Games Dataset
   
   2.1 Extract Video games Dataset
 
@@ -30,9 +30,11 @@ Perform ETL process completely in the cloud and upload a DataFrame to an RDS ins
 ![Screenshot (211)](https://user-images.githubusercontent.com/100891182/186228637-ca2550dd-1800-4055-b572-a7697f33638d.png)
 
 
-3. Wireless Dataset
+### 3. Wireless Dataset
 
     3.1 Extract Dataset
+
+![image](https://user-images.githubusercontent.com/100891182/186231995-f6ee5c2d-78b9-41a8-bcd0-998199ac12d5.png)
 
 
 
